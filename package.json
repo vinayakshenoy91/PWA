@@ -1,0 +1,23 @@
+{
+  "name": "PWA",
+  "version": "1.0.0",
+  "description": "Progressive Webapp projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayakshenoy91/PWA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayakshenoy91/PWA/issues"
+  },
+  "homepage": "https://github.com/vinayakshenoy91/PWA#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
